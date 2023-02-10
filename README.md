@@ -1,7 +1,9 @@
 # Space-Cream
-This project simulates a online menu of a ice-cream parlor for mobile.
+This project simulates a online menu of a ice-cream parlor for mobile and desktop.
 
-![image](https://user-images.githubusercontent.com/81266915/218188454-abe82ea8-9ce9-4d41-8dbc-d2baf09be336.png)
+![mobile version](https://user-images.githubusercontent.com/81266915/218188454-abe82ea8-9ce9-4d41-8dbc-d2baf09be336.png)
+
+![desktop version](https://user-images.githubusercontent.com/81266915/218189843-994c4680-8525-43de-bc57-4a34e25438f0.png)
 
 # What I've learned
 * Mobile first
